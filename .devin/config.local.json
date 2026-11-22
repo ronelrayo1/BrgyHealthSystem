@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(php.exe)",
+      "Exec(/c/xampp/php/php.exe)",
+      "Exec(\"C:\\xampp\\php\\php.exe\")",
+      "Exec(C:\\xampp\\php\\php.exe)",
+      "Exec(tail)"
+    ]
+  }
+}
